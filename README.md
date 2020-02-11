@@ -18,9 +18,6 @@
 #### Retrieving the ID of the first and last date of desired 12 month data:
 ![First&Last](/images/firstlast.jpg)
 
-#### Retrieving the last 12 months of precipitation data:
-![Query1](/images/query1.jpg)
-
 #### Creating a Dataframe based on Date and Precipitation data, dropping NaN values:
 ![Query2](/images/Query2.jpg)
 
